@@ -5,7 +5,6 @@ tags:
   - appel
 title: Zelda Appel
 ---
-
 ![[Zelda.jpg|400]]
 - Family:
 	- Daughter of [Gunda Appel](Gunda%20Appel.md)

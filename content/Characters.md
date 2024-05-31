@@ -1,3 +1,7 @@
+---
+title: Characters
+---
+
 # Main Characters
 
 - [Zelda Appel](Zelda%20Appel.md)

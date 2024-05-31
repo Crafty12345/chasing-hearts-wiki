@@ -1,0 +1,2 @@
+- Ex-husband of [Gunda Appel](Gunda%20Appel.md)
+- 

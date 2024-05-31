@@ -1,5 +1,6 @@
 ---
 title: Chasing Hearts
+publish: "true"
 ---
 # - [Characters](Characters.md)
 # - [Setting](Setting.md)

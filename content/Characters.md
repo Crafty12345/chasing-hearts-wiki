@@ -1,5 +1,6 @@
 ---
 title: Characters
+publish: "true"
 ---
 
 # Main Characters

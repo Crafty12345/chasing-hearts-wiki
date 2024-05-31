@@ -5,7 +5,6 @@ tags:
   - chasing_hearts
 ---
 
-
 <span
 	  class='ob-timelines'
 	  data-date='2022-12-16-00'
@@ -318,7 +317,7 @@ tags:
 	  data-title='Sorcha is born'
 	  data-class='green'
 	  data-type='box'>
-	  Sorcha Gallagher was born on the 30th of October, 2007
+	  Sorcha Gallagher was born on the 3rd of September, 1970
 </span>
 
 <span

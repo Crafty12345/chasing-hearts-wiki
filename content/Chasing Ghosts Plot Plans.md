@@ -1,6 +1,7 @@
 ---
 quickshare-date: 2024-03-12 17:51:16
-quickshare-url: "https://noteshare.space/note/clto6zver672701mwv0do4efq#PQ8r14jTatIsxtKRr03wpvR2Prg+MpPIMHzaoKtqRqI"
+quickshare-url: https://noteshare.space/note/clto6zver672701mwv0do4efq#PQ8r14jTatIsxtKRr03wpvR2Prg+MpPIMHzaoKtqRqI
+draft: "true"
 ---
 
 # Confirmed Ideas

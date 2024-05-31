@@ -356,6 +356,11 @@ pre {
     border: none;
   }
 
+  & > svg{
+    width: 200%;
+    overflow-x: scroll;
+  }
+
   & > code {
     background: none;
     padding: 0;

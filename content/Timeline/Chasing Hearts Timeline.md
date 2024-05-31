@@ -9,7 +9,7 @@ timeline
     title Chasing Hearts
 	section Before Chasing Hearts
 		17/03/1937:
-			[[Shay Gallagher|Shay]] is born.
+			Shay is born.
 		01/02/1970:
 			Mrs Martin becomes the second leader of Sheridan’s School for Girls (future Kalamunda Sapling School).
 		12/06/1970:
@@ -30,4 +30,6 @@ timeline
 			Myrthe is born.
 		12/04/2006:
 			Fiadh is born.
+		08/05/2006:
+			Sheila is born.
 ```

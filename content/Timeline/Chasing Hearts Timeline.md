@@ -1,3 +1,7 @@
+---
+title: Chasing Hearts Timeline
+---
+
 ```mermaid
 
 %%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
@@ -16,4 +20,14 @@ timeline
 			Gunda is born.
 		01/02/1990:
 			Ms Cortez becomes principal of Kalamunda Sapling School.
+		06/09/2005:
+			Harper is born.
+		10/18/2005:
+			Roosje is born.
+		25/12/2005:
+			Ash is born.
+		08/02/2006:
+			Myrthe is born.
+		12/04/2006:
+			Fiadh is born.
 ```

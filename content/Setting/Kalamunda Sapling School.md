@@ -1,3 +1,3 @@
 #location 
-- Where everybody (apart from [[Freya|red-haired girl]]) goes to
+- Where everybody (apart from [[Red-Haired Girl|red-haired girl]]) goes to
 - 

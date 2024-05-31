@@ -25,15 +25,15 @@ draft: "true"
 - The person who murdered Ash's friends and mum is working with Zelda's dad
 
 # Unconfirmed Ideas
-- [Freya](Freya.md) (red-haired girl) is a ghost who is permadead
-	- [Zelda](Zelda%20Appel.md) and Zelda's dad are the last people in the world to remember [Freya](Freya.md)
+- [Red-Haired Girl](Red-Haired%20Girl.md) (red-haired girl) is a ghost who is permadead
+	- [Zelda](Zelda%20Appel.md) and Zelda's dad are the last people in the world to remember [Red-Haired Girl](Red-Haired%20Girl.md)
 - Zelda's dad is really rich
 	- Almost everyone at Zelda's school in Germany were actors who were paid to be mean to her, in hopes that she'd kill herself
 		- Zelda's dad figured this would be easier than killing Zelda himself
 		- The paid actors were used as vessels by Zelda's dad, allowing him to switch bodies while in the Lower Afterlife and not get caught
 	- Zelda's dad wants to kill her because he knows she is a ruin and is worried she'd have the power and knowledge required to stop his plan
 	- **Zelda's dad's plan**:
-		- He plans to use [Freya's](Freya.md) power to move from the lower afterlife to the upper afterlife
+		- He plans to use [Freya's](Red-Haired%20Girl.md) power to move from the lower afterlife to the upper afterlife
 - ![[Pasted image 20240415225346.png]]
 	- see: [this](https://discord.com/channels/745434846557372548/1086970227859931248/1229441597834399864) and [this](https://discord.com/channels/745434846557372548/1047121928651030578/1229438562026651678)
 	- 

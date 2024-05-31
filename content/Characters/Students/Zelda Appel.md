@@ -1,5 +1,11 @@
-#student #ruin #appel
-![[Zelda.jpg|200]]
+---
+tags:
+  - student
+  - ruin
+  - appel
+---
+
+![[Zelda.jpg|400]]
 - Family:
 	- Daughter of [Gunda Appel](Gunda%20Appel.md)
 - Girlfriend of [Fiadh Gallagher](Fiadh%20Gallagher.md)

@@ -3,6 +3,7 @@ tags:
   - student
   - ruin
   - appel
+title: Zelda Appel
 ---
 
 ![[Zelda.jpg|400]]

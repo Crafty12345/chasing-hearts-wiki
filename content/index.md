@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Chasing Hearts
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# - [Characters](Characters.md)
+# - [Setting](Setting.md)
+# - [Ruins](Ruins.md)
+# - [Classes](Classes.md)

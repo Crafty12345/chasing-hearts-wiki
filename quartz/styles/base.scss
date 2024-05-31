@@ -354,11 +354,10 @@ pre {
 
   &:has(> code.mermaid) {
     border: none;
-  }
-
-  & > svg{
-    width: 200%;
-    overflow-x: scroll;
+    & code.mermaid svg{
+      width:200%;
+      overflow-x: scroll;
+    }
   }
 
   & > code {

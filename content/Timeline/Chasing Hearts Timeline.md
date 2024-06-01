@@ -5,7 +5,7 @@ tags:
 ---
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': { 'fontSize': '20px'}} } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': { 'fontSize': '24px'}} } }%%
 timeline
     title Chasing Hearts
 	section Before Chasing Hearts
@@ -33,4 +33,17 @@ timeline
 			Fiadh is born.
 		08/05/2006:
 			Sheila is born.
+		04/06/2006:
+			Zelda is born.
+		29/06/2006:
+			Fernanda is born.
+		31/10/2007:
+			Mila is born.
+	section Chasing Hearts Part 1
+		01/02/2022:
+			2022 school year starts.
+		02/02/2022:
+			Ash unofficially joins the main group.
+		16/02/2022:
+			Harper gets rejected by Ash.
 ```

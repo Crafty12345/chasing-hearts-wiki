@@ -3,11 +3,19 @@ title: Chasing Hearts Timeline
 tags:
   - timeline
 ---
+<hr>
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': { 'fontSize': '24px'}} } }%%
+---
+title: "Chasing Hearts Timeline"
+config:
+  theme: base
+  themeVariables:
+    fontSize: "20px"
+---
+
 timeline
-    title Chasing Hearts
+    title Chasing Hearts Timeline
 	section Before Chasing Hearts
 		17/03/1937:
 			Shay is born.
@@ -40,8 +48,12 @@ timeline
 		31/10/2007:
 			Mila is born.
 	section Chasing Hearts Part 1
+		29/07/2020:
+			Zelda meets the red-haired girl.
+		15/08/2021:
+			Zelda arrives 
 		01/02/2022:
-			2022 school year starts.
+			2022 school year starts at Kalamunda Sapling School.
 		02/02/2022:
 			Ash unofficially joins the main group.
 		16/02/2022:
@@ -54,4 +66,14 @@ timeline
 			Ash and Alice join the group.
 		01/04/2022:
 			Term 1 of 2022 at Kalamunda Sapling School ends.
+		12/04/2022:
+			Fiadh hosts her 16th birthday party.
+		25/04/2022:
+			Term 2 of the 2022 school year starts at Kalamunda Sapling School.
+		27/04/2022:
+			Fiadh and Miranda meet Myrthe.
+		24/06/2022:
+			Term 2 of 2022 ends at Kalamunda Sapling School.
+		18/07/2022:
+			Term 3 of 2022 starts at Kalamunda Sapling School.
 ```

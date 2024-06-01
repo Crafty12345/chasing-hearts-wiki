@@ -4,6 +4,7 @@ draft: false
 tags:
 ---
 <hr>
+
 # Main Characters
 
 [![[Zelda.jpg|200]]](Zelda%20Appel.md)

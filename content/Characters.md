@@ -1,6 +1,6 @@
 ---
 title: Characters
-draft: "false"
+draft: false
 tags:
 ---
 

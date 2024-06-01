@@ -22,10 +22,10 @@ tags:
 [![[Harper.jpg|200]]](Harper%20Belanger.md)
 [Harper Belanger](<Harper Belanger.md>)
 
-[![[content/images/Myrthe.png|200]]](Myrthe%20Hoedemaker)
+[![[Myrthe.png|200]]](Myrthe%20Hoedemaker)
 [[Myrthe Hoedemaker]]
 
-[![[content/images/Roosje.png|200]]](Roosje%20Alderliesten)
+[![[Roosje.png|200]]](Roosje%20Alderliesten)
 [[Roosje Alderliesten]]
 
 

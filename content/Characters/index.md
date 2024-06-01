@@ -6,7 +6,6 @@ tags:
 <hr>
 
 # Main Characters
-
 [![[Zelda.jpg|200]]](Zelda%20Appel.md)
 [Zelda Appel](Zelda%20Appel.md)
 
@@ -32,6 +31,9 @@ tags:
 # Minor Characters
 [![[Altair.png|200]]](Altair%20Vilar-Castelo)
 [Altair Vilar-Castelo](Altair%20Vilar-Castelo)
+
+[![[Fernanda.png|200]]](Fernanda%20Grillo)
+[Fernanda Grillo](Fernanda%20Grillo)
 
 [![[Chris.png|200]]](Christopher%20Gallagher.md)
 [Christopher Gallagher](Christopher%20Gallagher.md)

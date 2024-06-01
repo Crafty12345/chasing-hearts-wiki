@@ -13,7 +13,6 @@ tags:
 - He lives with his *tio* in Cloverdale.
 
 # Relationships
-
 ## Fernanda
  - He is best friends with [[Fernanda Grillo]]
 

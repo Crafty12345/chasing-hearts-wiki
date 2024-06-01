@@ -1,10 +1,11 @@
 ---
 title: Chasing Hearts Timeline
+tags:
+  - timeline
 ---
 
 ```mermaid
-
-%%{init: { 'logLevel': 'debug', 'theme': 'base' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'themeVariables': { 'fontSize': '20px'}} } }%%
 timeline
     title Chasing Hearts
 	section Before Chasing Hearts

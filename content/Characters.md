@@ -1,11 +1,13 @@
 ---
 title: Characters
-publish: "true"
+draft: "false"
+tags:
 ---
 
 # Main Characters
 
-- [Zelda Appel](Zelda%20Appel.md)
+### [Zelda Appel](Zelda%20Appel.md)
+
 - [Gunda Appel (Zelda’s mum)](Gunda%20Appel.md)
 - [Fiadh Gallagher](Fiadh%20Gallagher.md)
 - [Sorcha Gallagher (Fiadh’s mum)](Sorcha%20Gallagher.md)

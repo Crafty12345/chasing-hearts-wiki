@@ -1,3 +1,9 @@
+---
+title: Main Group Relationship Table
+draft: "false"
+tags:
+---
+
 | -      | Zelda                                           | Fiadh             | Harper                          | Ash                                                                                | Roosje                    | Alice                                    |
 | ------ | ----------------------------------------------- | ----------------- | ------------------------------- | ---------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- |
 | Zelda  | -                                               | Has a crush on    | Quite likes                     | Cares about                                                                        | Relates to                | Really enjoys her company                |

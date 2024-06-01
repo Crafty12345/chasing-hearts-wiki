@@ -37,6 +37,8 @@ timeline
 			Ash is born.
 		08/02/2006:
 			Myrthe is born.
+		05/04/2006:
+			Altair is born.
 		12/04/2006:
 			Fiadh is born.
 		08/05/2006:

@@ -30,13 +30,20 @@ tags:
 
 
 # Minor Characters
-- [Christopher Gallagher](Christopher%20Gallagher.md)
-- [Mila Gallagher](Mila%20Gallagher.md)
-- Zelda’s former dad (unnamed)
-- [Red-Haired Girl](Red-Haired%20Girl.md)
-- [Aspen](Aspen.md)
-- [Teachers](Teachers.md)
-- [Sorcha Gallagher (Fiadh’s mum)](Sorcha%20Gallagher.md)
+[![[Altair.png|200]]](Altair%20Vilar-Castelo)
+[Altair Vilar-Castelo](Altair%20Vilar-Castelo)
+
+[![[Chris.png|200]]](Christopher%20Gallagher.md)
+[Christopher Gallagher](Christopher%20Gallagher.md)
+
+[Sorcha Gallagher (Fiadh’s mum)](Sorcha%20Gallagher.md)
+
+[![[Mila.png|200]]](Mila%20Gallagher.md)
+[Mila Gallagher](Mila%20Gallagher.md)
+
+Zelda’s former dad (unnamed)
+
+[Red-Haired Girl](Red-Haired%20Girl.md)
 
 ## Teachers
 - [James Smith (Mr Smith) - Math](James%20Smith.md)

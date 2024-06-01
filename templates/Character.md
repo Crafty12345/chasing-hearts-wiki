@@ -5,8 +5,8 @@ tags:
 ---
 <hr>
 
-# Relationships
-## Family
+# History
 
-## Friends
+# Personality
+# Relationships
 

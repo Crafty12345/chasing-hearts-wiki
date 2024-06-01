@@ -1,6 +1,6 @@
 ---
 title: Main Group Relationship Table
-draft: "false"
+draft: false
 tags:
 ---
 

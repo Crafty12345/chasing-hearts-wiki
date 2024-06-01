@@ -7,6 +7,7 @@ tags:
 # Main Characters
 
 [![[Zelda.jpg|200]]](Zelda%20Appel.md)
+
  [Zelda Appel](Zelda%20Appel.md)
  
 [![[Gunda.png|200]]](Gunda%20Appel.md)
@@ -14,14 +15,18 @@ tags:
 [Gunda Appel (Zelda’s mum)](Gunda%20Appel.md)
 
 [![[Fiadh.jpg|200]]](Fiadh%20Gallagher.md)
+
 [Fiadh Gallagher](Fiadh%20Gallagher.md)
+
 
 [Sorcha Gallagher (Fiadh’s mum)](Sorcha%20Gallagher.md)
 
 [![[Ash.jpg|200]]](Ash.md)
+
 [Ash](Ash.md)
 
 [![[Harper.jpg|200]]](Harper%20Belanger.md)
+
 [Harper Belanger](<Harper Belanger.md>)
 
 # Minor Characters

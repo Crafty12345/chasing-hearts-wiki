@@ -1,4 +1,10 @@
-#student #ruin #gallagher 
+---
+title: Fiadh Gallagher
+draft: false
+tags:
+  - student
+  - ruin
+---
 
 ![[Fiadh.jpg|200]]
 - Family:

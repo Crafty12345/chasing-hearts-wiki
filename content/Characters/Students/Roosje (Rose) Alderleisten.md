@@ -1,3 +1,0 @@
-#student 
-- From Flevoland
-- 

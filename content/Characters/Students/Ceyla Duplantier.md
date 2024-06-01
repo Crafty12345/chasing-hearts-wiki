@@ -1,4 +1,10 @@
-#student 
+---
+title: Ceyla Duplantier
+draft: false
+tags:
+  - student
+---
+
 **(She/Her)**
 - French and American, lives in Australia
 - Family:

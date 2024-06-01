@@ -1,4 +1,10 @@
-#student 
+---
+title: Sheila Cook
+draft: false
+tags:
+  - student
+---
+
 **(She/Her)**
 
 ![[Sheila.png|200]]

@@ -1,3 +1,9 @@
+---
+title: Arnold Sauer
+draft: true
+tags:
+---
+
 - Brother of [Krystol Sauer](Krystol%20Sauer.md)
 - Brickie
 - Acts very Australian

@@ -1,8 +1,12 @@
 ---
 quickshare-date: 2024-06-01 15:53:27
-quickshare-url: "https://noteshare.space/note/clwvtgf1y3590601mwuyqviree#FE4cLVfVexmh5NSVpzjCe3/glSLuIYQYrz5FU5cf6BY"
+quickshare-url: https://noteshare.space/note/clwvtgf1y3590601mwuyqviree#FE4cLVfVexmh5NSVpzjCe3/glSLuIYQYrz5FU5cf6BY
+title: Roosje Alderliesten
+draft: false
+tags:
+  - student
 ---
-![[Pasted image 20240601152133.png]]
+![[Roosje.png|200]]
 - From Swifterbant, Flevoland, the Netherlands
 - Started as a student at Kalamunda Sapling School when she was in Year 9 (in the middle of that year).
 -  She shares an apartment in Kalamunda with her sister, Marjolijn.

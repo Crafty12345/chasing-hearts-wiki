@@ -1,4 +1,12 @@
-#student #art #media #cooking
+---
+title: Zayn Belanger
+draft: false
+tags:
+  - student
+  - art
+  - media
+  - cooking
+---
 
 ![[Zayn.png|200]]
 - Family:

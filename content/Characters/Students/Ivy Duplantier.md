@@ -1,4 +1,9 @@
-#student 
+---
+title: Ivy Duplantier
+draft: false
+tags:
+  - student
+---
 **(She/They)**
 
 ![[Ivy.png|200]]

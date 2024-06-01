@@ -1,4 +1,9 @@
-#student #gallagher
+---
+title: Mila Gallagher
+draft: false
+tags:
+  - student
+---
 
 ![[Mila.png|200]]
 - Family:

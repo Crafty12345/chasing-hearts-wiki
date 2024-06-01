@@ -3,7 +3,7 @@ title: Chasing Hearts
 ---
 <hr>
 
-# [Characters](Characters.md)
+# [Characters](Characters/index.md)
 # [Setting](Setting.md)
 # [Ruins](Ruins.md)
 # [Classes](Classes.md)

@@ -4,6 +4,7 @@ tags:
   - ruin
   - appel
 title: Zelda Appel
+draft: false
 ---
 ![[Zelda.jpg|400]]
 - Family:

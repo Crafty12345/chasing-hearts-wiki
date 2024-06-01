@@ -46,4 +46,12 @@ timeline
 			Ash unofficially joins the main group.
 		16/02/2022:
 			Harper gets rejected by Ash.
+		28/02/2022:
+			Fiadh finds out who Ms Van likes.
+		02/03/2022:
+			The first school production session of 2022 is held.
+		08/03/2022:
+			Ash and Alice join the group.
+		01/04/2022:
+			Term 1 of 2022 at Kalamunda Sapling School ends.
 ```

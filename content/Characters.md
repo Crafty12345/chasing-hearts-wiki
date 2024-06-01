@@ -3,16 +3,18 @@ title: Characters
 draft: false
 tags:
 ---
-
+<hr>
 # Main Characters
 
 [![[Zelda.jpg|200]]](Zelda%20Appel.md)
 
  [Zelda Appel](Zelda%20Appel.md)
- 
+
+
 [![[Gunda.png|200]]](Gunda%20Appel.md)
 
 [Gunda Appel (Zelda’s mum)](Gunda%20Appel.md)
+
 
 [![[Fiadh.jpg|200]]](Fiadh%20Gallagher.md)
 
@@ -25,9 +27,11 @@ tags:
 
 [Ash](Ash.md)
 
+
 [![[Harper.jpg|200]]](Harper%20Belanger.md)
 
 [Harper Belanger](<Harper Belanger.md>)
+
 
 # Minor Characters
 - [Christopher Gallagher](Christopher%20Gallagher.md)

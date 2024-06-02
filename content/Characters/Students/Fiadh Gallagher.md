@@ -6,12 +6,18 @@ tags:
   - ruin
 ---
 
-![[Fiadh.jpg|200]]
-- Family:
-	- Sister of [Mila Gallagher](Mila%20Gallagher.md)
-	- Daughter of [Sorcha Gallagher](Sorcha%20Gallagher.md) and [Christopher Gallagher](Christopher%20Gallagher.md)
-	- Granddaughter of [Shay Gallagher](Shay%20Gallagher.md) (Maternal)
+![[Fiadh.jpg|400]]
+# Relationships
+## Mila
+- Sister of [Mila Gallagher](Mila%20Gallagher.md)
+## Parents
+- Daughter of [Sorcha Gallagher](Sorcha%20Gallagher.md) and [Christopher Gallagher](Christopher%20Gallagher.md)
+## Grandparents
+- Granddaughter of [Shay Gallagher](Shay%20Gallagher.md) (Maternal)
+## Zelda
 - Girlfriend of [Zelda Appel](Zelda%20Appel.md)
+
+# School Life
 - Subjects:
 	- French
 	- English

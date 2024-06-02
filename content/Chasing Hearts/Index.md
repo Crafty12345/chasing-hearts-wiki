@@ -5,7 +5,9 @@ longform:
   sceneFolder: /
   scenes: []
   ignoredFiles: []
-title: Chasing Hearts
+title: Chasing Hearts Chapters
 draft: true
 ---
-Test
+# Chapters
+
+## [[Chapter 0]]

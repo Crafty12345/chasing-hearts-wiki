@@ -7,7 +7,7 @@ tags:
   - student
   - ruin
 ---
-![[Myrthe.png|200]]
+![[Myrthe.png|400]]
 - From Antwerp (NOT *Anvers*, she would never dream of calling it that), Flanders, Belgium.
 -  Started learning at Kalamunda Sapling School in Term 2 of Year 10.
 - She lives with her father, Robrecht, in Forrestfield.

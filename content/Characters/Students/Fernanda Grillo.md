@@ -1,3 +1,11 @@
+---
+title: Fernanda Grillo
+draft: false
+tags:
+  - student
+  - ruin
+---
+
 ![[Fernanda.png|400]]
 # History
 - Originally from the island of Sicily. (Italy.)

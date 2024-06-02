@@ -27,6 +27,9 @@ tags:
 [![[Roosje.png|200]]](Roosje%20Alderliesten)
 [[Roosje Alderliesten]]
 
+[![[Alice.png|200]]](Alice)
+[Alice](Alice)
+
 
 # Minor Characters
 [![[Altair.png|200]]](Altair%20Vilar-Castelo)

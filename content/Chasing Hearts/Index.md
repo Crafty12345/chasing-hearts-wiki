@@ -6,7 +6,7 @@ longform:
   scenes: []
   ignoredFiles: []
 title: Chasing Hearts Chapters
-draft: true
+draft: false
 ---
 # Chapters
 

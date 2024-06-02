@@ -29,7 +29,7 @@ At [[Kalamunda Sapling School]], her life has improved significantly, compared t
 [Gunda](<Gunda Appel>) is Zelda's mother.
 
 ## Red-Haired Girl
-Zelda met [the red-haired girl](Red-Haired%20Girl.md) in Chapter 0 of Chasing Hearts Part One. She saw her for a lunchtime period of a day in year nine, then never saw her again since. She still thinks about her constantly and hopes that she'll get to see her again one day.
+Zelda met [the red-haired girl](Red-Haired%20Girl.md) in [Chapter 0](<Chapter 0>) of Chasing Hearts Part One. She saw her for a lunchtime period of a day in year nine, then never saw her again since. She still thinks about her constantly and hopes that she'll get to see her again one day.
 
 ## Fiadh
 Zelda met [Fiadh](<Fiadh Gallagher>) in Chapter 4, on her first day at Kalamunda Sapling School. Fiadh was incredibly excited to meet her.

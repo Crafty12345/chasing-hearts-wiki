@@ -26,7 +26,7 @@ Alice is still attending [[Kalamunda Sapling School]] and is currently doing the
 ### English
 
 ### Art
-Alice is in [[Harper Belanger|Harper]]'s art class and frequently enjoys painting her, in abnormally high detail.
+Alice is in [[Harper Belanger|Harper]]'s art class and frequently enjoys painting her, in abnormally high detail. She is also in [Altair](<Altair Vilar-Castelo>) and [Fernanda](<Fernanda Grillo>)'s art class.
 
 ### Photography
 

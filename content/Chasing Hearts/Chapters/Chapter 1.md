@@ -5,7 +5,7 @@ tags:
 prev-chapter: Chapter 0
 ---
 # Characters
-[Zelda](<Zelda Appel>)
+[Zelda](<Zelda Appel>) \
 [Gunda](<Gunda Appel>)
 
 # Chapter Summary

@@ -4,8 +4,8 @@ draft: false
 tags: 
 next-chapter: Chapter 1
 ---
-# Characters
-[Zelda](<Zelda Appel>)
+# Characters 
+[Zelda](<Zelda Appel>) \
 [Red-haired girl](Red-Haired%20Girl.md)
 
 # Chapter Summary

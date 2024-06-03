@@ -1,7 +1,8 @@
 ---
 title: Chapter 1 - The Moment Everything Changed
 draft: false
-tags:
+tags: 
+prev-chapter: Chapter 0
 ---
 # Characters
 [Zelda](<Zelda Appel>)

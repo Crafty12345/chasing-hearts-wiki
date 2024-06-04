@@ -6,7 +6,7 @@ draft: false
 tags:
   - student
 ---
-![[Roosje.png|200]]
+![[Roosje.png|400]]
 - From Swifterbant, Flevoland, the Netherlands
 - Started as a student at Kalamunda Sapling School when she was in Year 9 (in the middle of that year).
 -  She shares an apartment in Kalamunda with her sister, Marjolijn.

@@ -3,7 +3,7 @@ title: Chasing Hearts
 ---
 <hr>
 
-# [Chapters](content/Chasing%20Hearts/index.md)
+# [[Chasing Hearts/index|Chasing Hearts]]
 # [Characters](Characters/index.md)
 # [Setting](Setting.md)
 # [Ruins](Ruins.md)

@@ -1,6 +1,12 @@
-#gallagher #ruin 
+---
+title: Shay
+draft: false
+tags:
+  - grandparent
+---
 
-![[Shay.png|200]]
+
+![[Shay.png|400]]
 - Family:
 	- Ex-husband of [Riona O'Farrell](Riona%20O'Farrell.md)
 	- Grandfather of [Fiadh Gallagher](Fiadh%20Gallagher.md) and [Mila Gallagher](Mila%20Gallagher.md)

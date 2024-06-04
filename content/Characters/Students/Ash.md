@@ -1,6 +1,6 @@
 ---
 title: Ash
-draft: 
+draft: false
 tags:
   - student
   - ruin

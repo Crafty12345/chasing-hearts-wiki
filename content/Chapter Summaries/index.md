@@ -9,8 +9,9 @@ longform:
   ignoredFiles: []
 title: Chapter Summaries
 draft: false
+aliases: []
 ---
-# Chapters
+# Chasing Hearts
 
 ## [Chapter 0](Chapter%200.md)
 

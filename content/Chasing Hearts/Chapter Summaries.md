@@ -4,16 +4,15 @@ longform:
   title: Chasing Hearts
   workflow: Default Workflow
   sceneFolder: Chapters
-  scenes:
-    - Chapter 0
-    - Chapter 1
+  scenes: []
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
-title: Chapters
+title: Chapter Summaries
 draft: false
 ---
 # Chapters
 
-## [[Chapter 0]]
+## [Chapter 0](Chapter%200.md)
 
-## [[Chapter 1]]
+## [Chapter 1](Chapter%201.md)
+

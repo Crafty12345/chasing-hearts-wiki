@@ -356,9 +356,9 @@ pre {
   &:has(> code.mermaid) {
     border: none;
     & code.mermaid svg{
+      overflow-x: scroll;
       &[aria-roledescription="timeline"]{
         width:300vw;
-        overflow-x: scroll;
       }
     }
   }

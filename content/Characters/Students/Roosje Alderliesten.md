@@ -3,8 +3,8 @@ quickshare-date: 2024-06-01 15:53:27
 quickshare-url: "https://noteshare.space/note/clwvtgf1y3590601mwuyqviree#FE4cLVfVexmh5NSVpzjCe3/glSLuIYQYrz5FU5cf6BY"
 ---
 ![[Roosje.png|400]]
-# History
 
+# History
 She was born in Urk to her two mums, however only one (the one who had given birth, Petra) was with her at the time. Petra did not have her wife there to visit her at the same time as she had a modelling shoot that day which she couldn't reschedule. Instead, Constantijn took Petra to the hospital in Urk, and waited outside the hospital with Marjolijn for Roosje to be born.
 
 For the rest of her time in the Netherlands, Roosje grew up in Swifterbant and Petra worked part-time so that she could pick her and Marjolijn up from school when they needed to be picked up. Petra was a relatively good mother and cared deeply for her daughters, however was often sarcastic in speech, leading her to conflict a lot with their other mother, the strait-laced, proper Truus. 
@@ -30,13 +30,13 @@ By now, thanks to being part of [Fiadh](Fiadh%20Gallagher)'s group, she has a bi
 
 She frequently talks with her *Mams* (Petra) on the phone, the latter and Truus visiting on Mother's Day.
 
-- She takes the following subjects at Kalamunda Sapling School: 
-                         -  English Literature
-                          -  Drama
-                          - Italian 
-                          - History
-                          - Integrated Science
-                          - Media
+She takes the following subjects at [Kalamunda Sapling School](Kalamunda%20Sapling%20School): 
+- English Literature
+- Drama
+- Italian 
+- History
+- Integrated Science
+- Media
 
 # Relationships
 ## Marjolijn (sister)
@@ -45,19 +45,19 @@ She frequently talks with her *Mams* (Petra) on the phone, the latter and Truus 
 - Occasionally, they watch old Dutch anime dubs together on Marjolijn's laptop.
 
 ## Myrthe
-- She befriends [[Myrthe Hoedemaker]] off-screen in Chapter 14 when the two play a word chain game together. She agrees to become friends with her only after beating her easily. (They got an impressive 50 words in before Myrthe was finally beaten).
+- She befriends [Myrthe](Myrthe%20Hoedemaker) off-screen in Chapter 14 when the two play a word chain game together. She agrees to become friends with her only after beating her easily. (They got an impressive 50 words in before Myrthe was finally beaten).
 - They had a lot of sleepovers together during the school holidays, which resulted in them becoming better friends.
 - She confessed her romantic feelings for [Myrthe](Myrthe%20Hoedemaker) (after a lot of encouragement from Fiadh and a cupcake she ate for courage given by [Ms Chiba](Aiko%20Chiba)) in Chapter 31.
 
 ## Fernanda
 - She became acquainted with [Fernanda](Fernanda%20Grillo) when she was introduced to the whole group in Chapter 25.
 - She is often the one to watch over her when she randomly goes swimming in the mornings and cheers her on at swimming carnivals.
-- She saw one of [Fernanda](Fernanda%20Grillo)'s sisters at the shops and had to wait outside with her for Fernanda and the rest of [Fernanda](Fernanda)'s family to come back. After this, [Fernanda](Fernanda%20Grillo) has been really friendly with Roosje, occasionally following her around when she has a different class on.
+- She saw one of [Fernanda](Fernanda%20Grillo)'s sisters at the shops and had to wait outside with her for Fernanda and the rest of [Fernanda](Fernanda%20Grillo)'s family to come back. After this, [Fernanda](Fernanda%20Grillo) has been really friendly with Roosje, occasionally following her around when she has a different class on.
 
 ## Altair
 - She met [Altair](Altair%20Vilar-Castelo) during production rehearsals one day, when [Fernanda](Fernanda%20Grillo) snuck in because of getting lost on the way to the carpark.
 - Eventually she just wound up letting the two come watch rehearsals after obtaining permission from one of the teachers in charge.
-- She and him occasionally buy books together when she, [Fernanda](Fernanda%20Grillo), [Myrthe](Myrthe%Hoedemaker), and he go out to the shops as a group.
+- She and him occasionally buy books together when she, [Fernanda](Fernanda%20Grillo), [Myrthe](Myrthe%20Hoedemaker), and he go out to the shops as a group.
 
 ## Zelda
 - She and [Zelda](Zelda%20Appel) became close in Chapter 16, upon realising just how much they have in common.

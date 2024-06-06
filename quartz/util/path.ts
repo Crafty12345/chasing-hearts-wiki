@@ -85,20 +85,35 @@ export function simplifySlug(fp: FullSlug): SimpleSlug {
   return (res.length === 0 ? "/" : res) as SimpleSlug
 }
 
-export function transformInternalLink(link: string): RelativeURL {
-  let [fplike, anchor] = splitAnchor(decodeURI(link))
-
-  const folderPath = isFolderPath(fplike)
-  let segments = fplike.split("/").filter((x) => x.length > 0)
-  let prefix = segments.filter(isRelativeSegment).join("/")
-  let fp = segments.filter((seg) => !isRelativeSegment(seg) && seg !== "").join("/")
-
-  // manually add ext here as we want to not strip 'index' if it has an extension
-  const simpleSlug = simplifySlug(slugifyFilePath(fp as FilePath))
-  const joined = joinSegments(stripSlashes(prefix), stripSlashes(simpleSlug))
-  const trail = folderPath ? "/" : ""
-  const res = (_addRelativeToStart(joined) + trail + anchor) as RelativeURL
-  return res
+export function transformInternalLink(link: string, src: string): RelativeURL {
+  try{
+    let [fplike, anchor] = splitAnchor(decodeURI(link))
+    const folderPath = isFolderPath(fplike)
+    let segments = fplike.split("/").filter((x) => x.length > 0)
+    let prefix = segments.filter(isRelativeSegment).join("/")
+    let fp = segments.filter((seg) => !isRelativeSegment(seg) && seg !== "").join("/")
+  
+    // manually add ext here as we want to not strip 'index' if it has an extension
+    const simpleSlug = simplifySlug(slugifyFilePath(fp as FilePath))
+    const joined = joinSegments(stripSlashes(prefix), stripSlashes(simpleSlug))
+    const trail = folderPath ? "/" : ""
+    const res = (_addRelativeToStart(joined) + trail + anchor) as RelativeURL
+    return res
+  }
+  catch (e: unknown){
+    let msg: string = "";
+    if (typeof e === "string"){
+      msg = e;
+    }
+    else if (e instanceof Error){
+      msg = e.message;
+    }
+    else{
+      msg = "Error unknown"
+    }
+    console.log(`\nFailed to parse internal link '${link}' 'in file ${src}'.`);
+    throw Error(msg);
+  }
 }
 
 // from micromorph/src/utils.ts
@@ -201,7 +216,7 @@ export interface TransformOptions {
 }
 
 export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
-  let targetSlug = transformInternalLink(target)
+  let targetSlug = transformInternalLink(target, src)
 
   if (opts.strategy === "relative") {
     return targetSlug as RelativeURL

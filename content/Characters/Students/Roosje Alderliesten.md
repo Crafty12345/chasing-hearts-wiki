@@ -50,7 +50,7 @@ She frequently talks with her *Mams* (Petra) on the phone, the latter and Truus 
 - She confessed her romantic feelings for [Myrthe](Myrthe%20Hoedemaker) (after a lot of encouragement from Fiadh and a cupcake she ate for courage given by [Ms Chiba](Aiko%20Chiba)) in Chapter 31.
 
 ## Fernanda
-- She became acquainted with [[Fernanda Grillo]] when she was introduced to the whole group in Chapter 25.
+- She became acquainted with [Fernanda](Fernanda%20Grillo) when she was introduced to the whole group in Chapter 25.
 - She is often the one to watch over her when she randomly goes swimming in the mornings and cheers her on at swimming carnivals.
 - She saw one of [Fernanda](Fernanda%20Grillo)'s sisters at the shops and had to wait outside with her for Fernanda and the rest of [Fernanda](Fernanda)'s family to come back. After this, [Fernanda](Fernanda%20Grillo) has been really friendly with Roosje, occasionally following her around when she has a different class on.
 

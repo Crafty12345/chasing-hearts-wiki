@@ -10,12 +10,23 @@ tags:
 ![[Myrthe.png|400]]
  
 # History
-- She grew up in Antwerp and was homeschooled by her dad whilst she lived there.
-- Her mother died when she was four, so she does not remember her.
-- Her father decided to move them to Australia because he wanted to start them afresh and wanted to do it far away from Belgium so that they could easily have a good start. (He also started helping Myrthe learn English when she was in around Year 9.)
-- She began her time at Kalamunda Sapling School midway through Year 10.
-- She lives with her dad, Robrecht, in Forrestfield, and they are quite close.
-- She is introduced in Chapter 18.
+She was born in Antwerp, and, for the first few years of her life, was raised by both her mother and father. She was a curious child, often looking at old photos in the house and asking questions about them. During her early years, her father worked and her mother was a D List actress, so for the most part, she hung around both her grandparents. Every weekend, she would head to a nursing home in North Holland to visit her great-grandmother.
+
+Oftentimes, her great-grandmother (whose name was Jacomijntje) would take her out to art galleries. She would often tell Myrthe exactly what the people in the paintings were like, and the little Myrthe would listen with great interest. 
+
+Myrthe discovers her powers by accident when she is four years old. When her mother died, she often looked at photos of her to remember her, trying to figure out where she disappeared to and what happened. When she touched the edge of her mother and father's wedding photo, she disappeared into it and didn't return from it until her dad returned home from work. He returned to an absolutely distraught Myrthe and made her promise not to look at photos all by herself again.
+
+During that time, to cope with her grief in her little kid way, she would repeatedly try to ring her grandmother to take her to visit her great-grandmother at the nursing home, and (albeit reluctantly), her grandmother begun to take the train to that nursing home with her so little Myrthe could cheer up. (And also because she knew that Jacomijntje would also be in a marginally better physical and mental state just by being around her.) This went from every weekend to almost every afternoon after Myrthe was done with homeschool for the day.
+
+Myrthe went to old art galleries with Jacomijntje (her *overgrootmama*) often during these times, learning lots about the people in paintings during that time. When she was seven, she asked Jacomijntje whether or not it was "weird" to want to go into the world of a photo to spend more time with her mother. This was a question that was left unanswered even after Jacomijntje died a year later.
+
+When Myrthe was in Year 9, her father told her that he was planning to move away from Belgium with her, and so began to teach her English the very best way he could. He told her they were moving to Australia and that she should begin gathering anything she would want to bring with her in the corner of her room.
+
+They took the flight out of Belgium in the middle of Term 1 of 2021. She brought many old photos with her on the plane in her carry-on luggage, and when her dad got up on the plane to move around, she would often randomly "disappear", which freaked him out when he returned. He made her promise again never to do that when she was by herself, just so he didn't worry so much about her.
+
+They moved into a house in Forrestfield, and she started at KiSS in Term 2 of that same year.
+
+She officially is introduced to everyone else in Chapter 18.
 
 # Current Day
  She takes the following subjects at [Kalamunda Sapling School](<Kalamunda Sapling School>):
